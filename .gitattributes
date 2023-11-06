@@ -1,0 +1,1 @@
+cifar-10-batches-py.zip filter=lfs diff=lfs merge=lfs -text
